@@ -7,7 +7,7 @@
 1. [최신 릴리스](https://github.com/lsh423/clip-grabber/releases/latest)에서 `clip-grabber-*.apk`를 받습니다.
 2. 안드로이드에서 파일을 열어 설치합니다. (최초 1회 **"출처를 알 수 없는 앱 설치 허용"** 필요)
 
-바로 받기: https://github.com/lsh423/clip-grabber/releases/latest/download/clip-grabber-v1.0.3.apk
+바로 받기: https://github.com/lsh423/clip-grabber/releases/latest/download/clip-grabber-v1.0.4.apk
 
 ## 사용법
 
