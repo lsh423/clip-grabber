@@ -1,19 +1,20 @@
 # 클립그랩 (ClipGrab)
 
-유튜브 · 인스타그램 · 스레드에서 영상·사진을 갤러리로 바로 받는 안드로이드 앱.
+유튜브 · 인스타그램 · 스레드 · X(트위터)에서 영상·사진을 갤러리로 바로 받는 안드로이드 앱.
 
 ## 설치
 
 1. [최신 릴리스](https://github.com/lsh423/clip-grabber/releases/latest)에서 `clip-grabber-*.apk`를 받습니다.
 2. 안드로이드에서 파일을 열어 설치합니다. (최초 1회 **"출처를 알 수 없는 앱 설치 허용"** 필요)
 
-바로 받기: https://github.com/lsh423/clip-grabber/releases/latest/download/clip-grabber-v1.0.0.apk
+바로 받기: https://github.com/lsh423/clip-grabber/releases/latest/download/clip-grabber-v1.0.1.apk
 
 ## 사용법
 
 - 링크를 복사하고 앱을 열면 자동으로 감지해 다운로드합니다.
 - 또는 앱의 입력칸에 링크를 붙여넣고 **받기**.
 - **인스타그램/스레드**는 앱에서 **로그인**해야 받을 수 있습니다.
+- **X**는 공개 영상이면 로그인 없이 받고, 민감·비공개 트윗은 앱에서 X 로그인 후 받습니다.
 
 ## 지원
 
@@ -22,3 +23,4 @@
 | 유튜브 | ✅ | — |
 | 인스타그램 | ✅ | ✅ |
 | 스레드 | ✅ | ✅ |
+| X(트위터) | ✅ (GIF 포함) | — |
